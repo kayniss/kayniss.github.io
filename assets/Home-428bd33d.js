@@ -1,0 +1,1 @@
+import{r as l,o,c as s,t as _,a as u,F as c,b as t}from"./index-96a1b267.js";const m={__name:"CounterButton",setup(r){const e=l(0);return(a,n)=>(o(),s("button",{onClick:n[0]||(n[0]=f=>e.value++)},_(e.value),1))}},p=t("br",null,null,-1),i=t("h1",null,"Home",-1),d=t("br",null,null,-1),h={__name:"Home",setup(r){return(e,a)=>(o(),s(c,null,[p,i,d,u(m)],64))}};export{h as default};
